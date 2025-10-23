@@ -16,7 +16,7 @@ const PostList: React.FC = () => {
     {
       id: 1,
       tieuDe: "Công nghệ AI đang thay đổi thế giới",
-      tacGia: "Nguyễn Văn A",
+      tacGia: "Nguyễn Công Minh",
       ngay: "2025-10-10",
       danhMuc: "Công nghệ",
       moTa: "Trí tuệ nhân tạo (AI) đã và đang thay đổi nhiều lĩnh vực...",
@@ -25,7 +25,7 @@ const PostList: React.FC = () => {
     {
       id: 2,
       tieuDe: "Du lịch Đà Lạt cuối tuần",
-      tacGia: "Lê Thị B",
+      tacGia: "Lê Thị Bưởi",
       ngay: "2025-09-05",
       danhMuc: "Du lịch",
       moTa: "Đà Lạt mát mẻ, nhiều cảnh đẹp...",
